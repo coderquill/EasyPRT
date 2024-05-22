@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Pittsburgh Regional Transit,https://www.rideprt.org,en,20231001,20240217,2310-Clever
